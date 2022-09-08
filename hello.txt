@@ -1,1 +1,3 @@
 hello git! gello git! master branch
+=======
+hello git! gello git! hot-fix update branch
